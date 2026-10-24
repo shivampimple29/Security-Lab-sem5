@@ -17,6 +17,16 @@ Practical solutions, lab experiments, and reference implementations for Semester
 <p align="center">
   <img src=".github/analytics/hall-banner.svg" alt="Hall of Appreciation Banner" width="100%">
 </p>
+
+<table align="center" border="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 12px 20px;">
+      <a href="https://github.com/radhaursekar12">
+        <img src=".github/analytics/supporters/radhaursekar12.svg" width="220" alt="radhaursekar12" />
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- REPOSITORY_ANALYTICS_END -->
 
 ---

@@ -1,8 +1,8 @@
 {
   "repository": "shivampimple29/Security-Lab-sem5",
   "defaultBranch": "main",
-  "updatedAtUTC": "2026-10-24T06:49:28.824242+00:00",
-  "updatedAtIST": "2026-10-24 12:19:28 IST",
+  "updatedAtUTC": "2026-10-24T21:05:54.411023+00:00",
+  "updatedAtIST": "2026-10-25 02:35:54 IST",
   "trafficStatus": "token_required",
   "trafficMetrics": {
     "availableDaysCount": 5,
@@ -78,5 +78,13 @@
     "lastSuccessfulUpdate": "2026-10-24T06:43:57.116372+00:00"
   },
   "forksCount": 0,
-  "supporters": []
+  "supporters": [
+    {
+      "username": "radhaursekar12",
+      "profileUrl": "https://github.com/radhaursekar12",
+      "avatarUrl": "https://github.com/radhaursekar12.png?size=96",
+      "role": "Community Star",
+      "year": "2026"
+    }
+  ]
 }
