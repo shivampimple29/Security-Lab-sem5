@@ -1,9 +1,9 @@
 {
-  "repository": "shivampimple29/Security-Lab-semV",
+  "repository": "shivampimple29/Security-Lab-sem5",
   "defaultBranch": "main",
-  "updatedAtUTC": "2026-10-24T06:43:57.116372+00:00",
-  "updatedAtIST": "2026-10-24 12:13:57 IST",
-  "trafficStatus": "success",
+  "updatedAtUTC": "2026-10-24T06:49:28.824242+00:00",
+  "updatedAtIST": "2026-10-24 12:19:28 IST",
+  "trafficStatus": "token_required",
   "trafficMetrics": {
     "availableDaysCount": 5,
     "isWindowComplete": true,
