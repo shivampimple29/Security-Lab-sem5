@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "collectionStartedAt": "2026-10-24T06:43:57.116372+00:00",
-  "lastSuccessfulUpdate": "2026-11-08T06:06:21.010366+00:00",
+  "lastSuccessfulUpdate": "2026-11-08T09:25:37.130805+00:00",
   "lastUpdateStatus": "success",
   "notes": "Daily buckets follow GitHub API UTC 24h reporting periods. Summing daily uniques across multiple days does not equal distinct individuals across the period.",
   "daily": {
@@ -108,98 +108,98 @@
       "uniqueCloners": 14,
       "views": 7,
       "uniqueVisitors": 1,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-25": {
       "clones": 36,
       "uniqueCloners": 18,
       "views": 17,
       "uniqueVisitors": 2,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-26": {
       "clones": 15,
       "uniqueCloners": 8,
       "views": 0,
       "uniqueVisitors": 0,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-27": {
       "clones": 35,
       "uniqueCloners": 16,
       "views": 0,
       "uniqueVisitors": 0,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-28": {
       "clones": 57,
       "uniqueCloners": 19,
       "views": 153,
       "uniqueVisitors": 6,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-29": {
       "clones": 108,
       "uniqueCloners": 50,
       "views": 85,
       "uniqueVisitors": 4,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-30": {
       "clones": 37,
       "uniqueCloners": 14,
       "views": 11,
       "uniqueVisitors": 1,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-10-31": {
       "clones": 29,
       "uniqueCloners": 14,
       "views": 16,
       "uniqueVisitors": 2,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-11-01": {
       "clones": 31,
       "uniqueCloners": 14,
       "views": 12,
       "uniqueVisitors": 1,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-11-02": {
       "clones": 26,
       "uniqueCloners": 14,
       "views": 48,
       "uniqueVisitors": 3,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-11-03": {
       "clones": 9,
       "uniqueCloners": 4,
       "views": 17,
       "uniqueVisitors": 2,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-11-04": {
       "clones": 8,
       "uniqueCloners": 3,
       "views": 11,
       "uniqueVisitors": 1,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-11-05": {
       "clones": 31,
       "uniqueCloners": 14,
       "views": 0,
       "uniqueVisitors": 0,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     },
     "2026-11-06": {
       "clones": 20,
       "uniqueCloners": 10,
       "views": 12,
       "uniqueVisitors": 3,
-      "collectedAt": "2026-11-08T06:06:21.010366+00:00"
+      "collectedAt": "2026-11-08T09:25:37.130805+00:00"
     }
   }
 }
